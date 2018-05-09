@@ -25,7 +25,7 @@ SECRET_KEY = '0kjr0^@ydz&k5fbe4g400watx71bp@q_y79yv&$d%7!_0@x0yx'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['https://dailymailsubscription.herokuapp.com/']
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
